@@ -1,6 +1,6 @@
 # manta-docker
 
-manta Docker Container based on Alpine Linux
+manta Docker Container based
 
 * [GitHub](https://github.com/informationsea/manta-docker)
 * [DockerHub](https://hub.docker.com/r/informationsea/manta)
